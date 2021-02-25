@@ -4,5 +4,5 @@
 
 ## Bounty
 
-* [FLO-bounty](bounty/flo-bounty.md)
+* [Overview](bounty/flo-bounty.md)
 
