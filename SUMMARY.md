@@ -10,3 +10,4 @@
 
 * [Big Mac Treasury](big-mac-treasury.md)
 
+* [Contact](contact.md)
