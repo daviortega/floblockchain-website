@@ -11,7 +11,7 @@ Ensure you have a [Github](https://github.com/) account. Then:
 - On [https://github.com/daviortega/floblockchain-website](https://github.com/daviortega/floblockchain-website), click `Fork`.
 - Once forking completes, click `Settings` and [enable Github pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/).
 - Verify that it works by visiting https://YOUR_GITHUB_USERNAME.github.io/site/
-  i.e. if your github name is `grinner` then replace `YOUR_GITHUB_USERNAME` with `grinner`.
+  i.e. if your github name is `bigmac` then replace `YOUR_GITHUB_USERNAME` with `bigmac`.
 
 2. Edit your fork
 - The lazy/easy option: just open files in your fork and click `Edit`, then reload the page from your github.io page as above.
