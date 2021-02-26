@@ -40,3 +40,6 @@ Adding a new file? Follow the guidelines [here](https://github.com/mmistakes/so-
 ## Design changes
 Please come discuss design here in the [Telegram chat](t.me/floblockchain).
 If your suggestion needs to be shown in context, create a separate page (like example-redesignX-YOUR_USERNAME.md and push to your github.io page, then share the link on the design chat etc.
+
+## Helpful links
+This is a good link for basic markdown syntax to help you get familiar if you are a nondev https://sourceforge.net/p/hidereveal/wiki/markdown_syntax/
