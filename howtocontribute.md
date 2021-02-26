@@ -3,7 +3,7 @@ layout: page
 title: "Contributing to these web pages"
 ---
 
-# How to contribute to the Grin webpage
+# How to contribute to the FLO webpage
 
 Ensure you have a [Github](https://github.com/) account. Then:
 
