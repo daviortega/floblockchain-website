@@ -18,7 +18,7 @@ Ensure you have a [Github](https://github.com/) account. Then:
 - Or clone your fork locally using `git`, edit, then push your changes back to your fork in Github:
 ```
 git clone https://github.com/YOUR_GITHUB_USERNAME/site
-git remote add upstream https://github.com/mimblewimble/site
+git remote add upstream https://github.com/daviortega/floblockchain-website
 git fetch --all
 git checkout -b my-task-branch upstream/master
 (add some files, maybe with git add learn.md images/illustrative.png)
