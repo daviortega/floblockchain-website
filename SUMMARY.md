@@ -17,4 +17,3 @@
 ---
 
 * [How to contribute to the website](howtocontribute.md)
-
