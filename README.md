@@ -5,9 +5,7 @@ description: >-
   software.
 ---
 
-# The Public Index Network
-
-Welcome to PIN: The Public Index Network
+# Welcome to PIN: The Public Index Network
 
 The vision we have for PIN is to become the public index for a metadata network. PIN isn't a smart contract platform plus 'oh we also have metadata on the side.' Metadata is PIN's purpose. — Joseph Fiscella, FLO Core Developer
 

@@ -1,4 +1,4 @@
 # Table of contents
 
-* [The Public Index Network](README.md)
+* [Welcome to PIN: The Public Index Network](README.md)
 
