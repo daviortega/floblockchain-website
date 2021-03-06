@@ -30,6 +30,10 @@
 * [API](for-developers/untitled-1.md)
 * [Building on PIN](for-developers/untitled.md)
 
+## Open Index Protocol
+
+* [Untitled](open-index-protocol/untitled.md)
+
 ## Contact and Media
 
 * [PIN Community](contact-and-media/pin-community.md)
