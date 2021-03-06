@@ -27,7 +27,6 @@
 
 ## Contact and Media
 
-* [Core Developers](contact-and-media/core-developers.md)
 * [PIN Community](contact-and-media/pin-community.md)
 * [Contribute to PIN](contact-and-media/contribute-to-pin.md)
 
