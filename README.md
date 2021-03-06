@@ -1,10 +1,3 @@
----
-description: Welcome to the FLO blockchain website
----
+#**Welcome to the Public Index Network ("PIN")** 
 
-# FLO
-
-FLO is awesome!
-
-FLO is a very good altcoin. It let you add 1040 bytes of text data to the transaction. Good FLO!
-
+##The blockchain host of the [Open Index Protocol](https://www.openindexprotocol.com/) ("OIP") and other application-layer software. 
