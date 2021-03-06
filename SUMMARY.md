@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Main Page](README.md)
+* [The Public Index Network](README.md)
 
