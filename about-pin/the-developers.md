@@ -1,2 +1,2 @@
-# The Developers
+# Developers
 

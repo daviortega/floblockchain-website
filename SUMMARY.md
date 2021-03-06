@@ -5,10 +5,11 @@
 
 ## About PIN
 
-* [The History of PIN](about-pin/the-history-of-pin.md)
-* [Design Philosophy](about-pin/design-philosophy.md)
+* [History](about-pin/the-history-of-pin/README.md)
+  * [Timeline](about-pin/the-history-of-pin/timeline.md)
+* [Philosophy](about-pin/design-philosophy.md)
 * [Features](about-pin/features-1.md)
-* [The Developers](about-pin/the-developers.md)
+* [Developers](about-pin/the-developers.md)
 
 ---
 

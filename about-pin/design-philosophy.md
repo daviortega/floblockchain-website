@@ -1,2 +1,2 @@
-# Design Philosophy
+# Philosophy
 
