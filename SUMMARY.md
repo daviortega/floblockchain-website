@@ -19,11 +19,16 @@
 
 ---
 
-* [Untitled](untitled.md)
+* [Setup](setup.md)
+* [Using PinData](using-pindata.md)
+* [Mining](mining.md)
+* [Wallets](wallets.md)
+* [Block Explorers](block-explorers.md)
 
 ## For Developers
 
-* [Untitled](for-developers/untitled.md)
+* [API](for-developers/untitled-1.md)
+* [Building on PIN](for-developers/untitled.md)
 
 ## Contact and Media
 
