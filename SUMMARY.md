@@ -33,7 +33,13 @@
 
 ## Open Index Protocol
 
-* [Untitled](open-index-protocol/untitled.md)
+* [What is OIP?](open-index-protocol/untitled.md)
+* [OPI Daemon](open-index-protocol/opi-daemon.md)
+* [JS OIP](open-index-protocol/js-oip.md)
+* [A basic Platform in React](open-index-protocol/a-basic-platform-in-react.md)
+* [Tools](open-index-protocol/tools.md)
+* [DDX Instance](open-index-protocol/ddx-instance.md)
+* [OIP Search API](open-index-protocol/oip-search-api.md)
 
 ## Contact and Media
 
