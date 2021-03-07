@@ -1,3 +1,9 @@
+---
+description: >-
+  In March 2021 the FLO Blockchain was rebranded to the Public Index Network -
+  PIN
+---
+
 # Timeline
 
 **2013**
