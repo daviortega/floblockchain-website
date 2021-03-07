@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to PIN: The Public Index Network](README.md)
+* [Welcome to PIN: Public Index Network](README.md)
 * [What is PIN?](what-is-pin.md)
 
 ## About PIN
