@@ -1,6 +1,6 @@
 # Building on PIN
 
-The following are developer notes on how to build FLO on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.:
+The following are developer notes on how to build PIN on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.:
 
 * \[[https://github.com/floblockchain/flo/blob/flo-master/doc/build-osx.md](https://github.com/floblockchain/flo/blob/flo-master/doc/build-osx.md) OS X\]
 * \[[https://github.com/floblockchain/flo/blob/flo-master/doc/build-unix.md](https://github.com/floblockchain/flo/blob/flo-master/doc/build-unix.md) Unix\]
@@ -8,7 +8,7 @@ The following are developer notes on how to build FLO on your native platform. T
 * \[[https://github.com/floblockchain/flo/blob/flo-master/doc/build-openbsd.md](https://github.com/floblockchain/flo/blob/flo-master/doc/build-openbsd.md) OpenBSD\]
 * \[[https://github.com/floblockchain/flo/blob/flo-master/doc/gitian-building.md](https://github.com/floblockchain/flo/blob/flo-master/doc/gitian-building.md) Gitian\]
 
-The FLO repo \[[https://github.com/floblockchain/flo/blob/flo-master/README.md](https://github.com/floblockchain/flo/blob/flo-master/README.md) "Read Me"\] file contains relevant information on the development process and automated testing. Additional helpful links and information are below:
+The PIN repo [Read Me](https://github.com/floblockchain/flo/blob/flo-master/README.md) file contains relevant information on the development process and automated testing. Additional helpful links and information are below:
 
 * \[[https://github.com/floblockchain/flo/blob/flo-master/doc/developer-notes.md](https://github.com/floblockchain/flo/blob/flo-master/doc/developer-notes.md) Developer Notes\]
 * \[[https://github.com/floblockchain/flo/blob/flo-master/doc/release-notes.md](https://github.com/floblockchain/flo/blob/flo-master/doc/release-notes.md) Release Notes

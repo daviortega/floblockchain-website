@@ -1,6 +1,6 @@
 # Mining
 
-**FLO Mining at a Glance:**
+**PIN Mining at a Glance:**
 
 * Proof of Work \(PoW\) - sCrypt algorithm
 * Block Time: 40 seconds
@@ -10,8 +10,8 @@
 
 **Mining Pools and Guides**:
 
-* [General FLO Mining Pool Information and Setup](https://forum.flo.cash/t/mining-guide-antminer-l3/36)
-* [RanchiMall : How to Setup a FLO Mining Node](https://medium.com/ranchimall/how-to-setup-florincoin-mining-node-d2d6a464090)
+* [General PIN Mining Pool Information and Setup](https://forum.flo.cash/t/mining-guide-antminer-l3/36)
+* [RanchiMall : How to Setup a PIN Mining Node](https://medium.com/ranchimall/how-to-setup-florincoin-mining-node-d2d6a464090)
 * Medici Land Governance Mining Pool + [Guid](https://pool.mediciland.com/connect.html)e
 * [hashing.com](https://hashing.com/) + [Guide](https://hashing.com/setup)
 * [Zergpool](http://zergpool.com/) + [Zergpool FAQs](http://zergpool.com/site/faq)

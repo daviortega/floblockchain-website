@@ -1,6 +1,6 @@
 # Philosophy
 
-FLO is designed to achieve four goals:
+PIN is designed to achieve four goals:
 
 1. Provide a decentralized metadata layer
 

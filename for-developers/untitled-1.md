@@ -1,6 +1,6 @@
 # API
 
-==='''RETURN DATA FROM COIND'''===
+## **RETURN DATA FROM COIND**
 
 ### Return data from local indexes
 

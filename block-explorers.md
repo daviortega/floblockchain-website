@@ -1,9 +1,9 @@
 # Block Explorers
 
-Currently, there are two main block explorers for FLO:
+Currently, there are two main block explorers for PIN:
 
-*  [FLO Block Explorer](http://network.flo.cash)
-*  [Flosigh](https://livenet.flocha.in)t
+*  [PIN Block Explorer](http://network.flo.cash)
+*  [PINsigh](https://livenet.flocha.in)t
 
 
 
