@@ -9,6 +9,6 @@
 
 3. Prevent widespread data atrophy
 
-4. Provide high throughput of transactions 📌 
+4. Provide high throughput of transactions📌 
 {% endhint %}
 
