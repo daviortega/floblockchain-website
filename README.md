@@ -11,8 +11,12 @@ description: >-
 > **— Joseph Fiscella, PIN Core Developer**
 
 {% hint style="success" %}
-**Latest News**: **FLO Rebrand.**[ **Learn More**](https://medium.com/@JosephFiscella/d3b679b8f6ab)\*\*\*\*
+**Latest News**: [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)     ****
 {% endhint %}
+
+
+
+\*\*\*\*
 
 
 
