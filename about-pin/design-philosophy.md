@@ -1,6 +1,7 @@
 # Philosophy
 
-PIN is designed to achieve four goals:
+{% hint style="success" %}
+**PIN is designed to achieve four goals:**
 
 1. Provide a decentralized metadata layer
 
@@ -8,5 +9,6 @@ PIN is designed to achieve four goals:
 
 3. Prevent widespread data atrophy
 
-4. Provide high throughput of transactions
+4. Provide high throughput of transactions 📌 
+{% endhint %}
 
