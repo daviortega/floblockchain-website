@@ -13,6 +13,7 @@
 * [Applications and Projects](about-pin/applications-and-projects-1/README.md)
   * [Streambed](about-pin/applications-and-projects-1/streambed.md)
   * [Alexandria](about-pin/applications-and-projects-1/alexandria.md)
+  * [Medici Land](about-pin/applications-and-projects-1/medici-land.md)
   * [RanchiMall](about-pin/applications-and-projects-1/ranchimall.md)
 
 ## For Users
