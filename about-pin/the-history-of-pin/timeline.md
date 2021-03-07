@@ -6,7 +6,7 @@ description: >-
 
 # Timeline
 
-**2013**
+**2013** 📌 
 
 * Jun 17th: FLO released by SkyAngel with no pre-mine and no ICO [https://bitcointalk.org/index.php?topic=236742.0](https://bitcointalk.org/index.php?topic=236742.0)
 * Jul 9th: Florincoin is the 61st coin added to Cryptsy, the first major altcoin exchange
@@ -15,7 +15,7 @@ description: >-
 * Dec 10th: Started work on new website
 * Dec 16th: Songs of Love, a charity for children based in NYC, beings accepting FLO donations to make customized songs for children in need
 
-**2014**
+**2014** 📌 
 
 * Feb 1st: Created the FLO twitter account [https://twitter.com/floblockchain](https://twitter.com/floblockchain) \(Originally @Official\_Florin\)
 * Feb 1st: Created a website, Aterna Love, to store valentine's day messages in the blockchain. Those messages still exist today
@@ -29,7 +29,7 @@ description: >-
 * Sep 20th: Alexandria team meets in San Diego to work on the project as a team for the first time
 * Oct 4th: Inside Bitcoins Las Vegas conference with the Alexandria Booth
 
-**2015**
+**2015** 📌 
 
 * Jan 1st: FLO and Alexandria mentioned in a chapter about blockchain applications in Melanie Swan's book Blockchain: A Blueprint for a New Economy [http://shop.oreilly.com/product/0636920037040.do](http://shop.oreilly.com/product/0636920037040.do)
 * Mar 3rd: Released the first golang SDK for Florincoin, foundation, on github:
@@ -46,7 +46,7 @@ description: >-
 * Dec 9th: Alexandria v0.5.1 alpha demo [https://www.youtube.com/watch?v=zcuj\_xILct0](https://www.youtube.com/watch?v=zcuj_xILct0)
 * Dec 16th: Alexandria booth at Inside Bitcoins San Diego [https://i.imgur.com/zZWi31F.jpg](https://i.imgur.com/zZWi31F.jpg)
 
-**2016**
+**2016** 📌 
 
 * Mar 25th: FLO 0.10.4.0 released by Bitspill and the Alexandria team, as well as a pool mining historian blocks [https://bitcointalk.org/index.php?topic=236742.msg14314984\#msg14314984](https://bitcointalk.org/index.php?topic=236742.msg14314984#msg14314984)
 * Apr 8th: FLO used to store Libertarian Party votes in blockchain [https://www.coindesk.com/libertarian-party-texas-logs-votes-presidential-electors-blockchain/](https://www.coindesk.com/libertarian-party-texas-logs-votes-presidential-electors-blockchain/)
@@ -54,7 +54,7 @@ description: >-
 * Jun 19th: FLO 0.10.4.4 recommended update to latest Litecoin codebase
 * Nov 27: Alexandria presentation at DAppHack Berlin 2016 [https://www.youtube.com/watch?v=qwqkmK9aTXs](https://www.youtube.com/watch?v=qwqkmK9aTXs)
 
-**2017**
+**2017** 📌 
 
 * May 15th: FLO meetup in NYC, Telegram channel created [https://bitcointalk.org/index.php?topic=236742.1560](https://bitcointalk.org/index.php?topic=236742.1560)
 * May 25th: FLO/Alexandria presentation lived streamed from BitDevs NYC: [https://twitter.com/FLOblockchain/status/867614281868726273](https://twitter.com/FLOblockchain/status/867614281868726273)
@@ -67,7 +67,7 @@ description: >-
 * Dec 24th: FLO Community Update [https://steemit.com/cryptocurrency/@m3ta/flo-community-update-december-2017](https://steemit.com/cryptocurrency/@m3ta/flo-community-update-december-2017)
 * Dec 31st: SharedSecret.net, the first blockchain-based implementation of Shamir's Secret Sharing algorithm, is live \(again created by Davi Ortega\)
 
-**2018**
+**2018** 📌 
 
 * Jan 13th: Live-streaming FLO dev on twitch.tv [https://www.youtube.com/watch?v=AAbk8FrbF7k](https://www.youtube.com/watch?v=AAbk8FrbF7k)
 * Jan 18th: FLO python SDK released [https://github.com/metacoin/flo-python-sdk](https://github.com/metacoin/flo-python-sdk)
@@ -100,7 +100,7 @@ description: >-
 * Dec 20th: MLG \(Overstock subsidiary\) signed a memorandum of understanding with Teton County, Wyoming, to digitize property titles. www.coindesk.com/wyoming-county-moves-to-put-land-records-on-blockchain
 * Dec 20th: FLO is now listed on the BitRabbit exchange [https://bitrabbit.com/markets/flo\_btc](https://bitrabbit.com/markets/flo_btc)
 
-**2019**
+**2019** 📌 
 
 * Jan 3rd: FLO Foundation established as a Ltd. in Hong Kong, for the purposes of non-profit fundraising for dev. of community sponsored software and apps on the FLO blockchain. www.flo.foundation
 * Jan 7th: FLO Foundation memo regarding initiative rollover [https://medium.com/@flo.cash/flo-foundation-memo-to-the-community-6ea4baff40ef](https://medium.com/@flo.cash/flo-foundation-memo-to-the-community-6ea4baff40ef)
