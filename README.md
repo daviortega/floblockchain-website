@@ -11,7 +11,7 @@ description: >-
 > **— Joseph Fiscella, PIN Core Developer**
 
 {% hint style="success" %}
-**Latest News**: Flo Blockchain Rebrand. [Learn More](./)
+**Latest News**: **FLO Rebrand.**[ **Learn More**](https://medium.com/@JosephFiscella/d3b679b8f6ab)\*\*\*\*
 {% endhint %}
 
 

@@ -19,6 +19,7 @@
 
 ---
 
+* [Exchanges](exchanges.md)
 * [Setup](setup.md)
 * [Using Pins](using-pindata.md)
 * [Mining](mining.md)
