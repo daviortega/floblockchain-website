@@ -1,7 +1,5 @@
 # PIN Community
 
-
-
 <table>
   <thead>
     <tr>
