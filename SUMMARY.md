@@ -10,10 +10,10 @@
 * [Philosophy](about-pin/design-philosophy.md)
 * [Developers](about-pin/the-developers.md)
 * [Features](about-pin/features-1.md)
-* [Applications and Projects](about-pin/applications-and-projects/README.md)
-  * [Streambed](about-pin/applications-and-projects/streambed.md)
-  * [Alexandria](about-pin/applications-and-projects/alexandria.md)
-  * [RanchiMall](about-pin/applications-and-projects/ranchimall.md)
+* [Applications and Projects](about-pin/applications-and-projects-1/README.md)
+  * [Streambed](about-pin/applications-and-projects-1/streambed.md)
+  * [Alexandria](about-pin/applications-and-projects-1/alexandria.md)
+  * [RanchiMall](about-pin/applications-and-projects-1/ranchimall.md)
 
 ## For Users
 
