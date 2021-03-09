@@ -1,5 +1,5 @@
 ---
-description: Learn about PIN and its unique feature set
+description: Learn about PIN and its highly focused set of features
 ---
 
 # What is PIN?
