@@ -1,3 +1,7 @@
+---
+description: What makes PIN special
+---
+
 # Design Philosophy
 
 {% hint style="success" %}
