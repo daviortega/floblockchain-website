@@ -1,6 +1,6 @@
 # Wallets
 
-There is a variety of desktop, web, and app-based wallets available for PIN:
+There is a variety of desktop, web, and app-based wallets available for PIN: 📌 
 
 * [Desktop Wallet and Nod](https://github.com/floblockchain/flo/releases/tag/v0.15.2.0)e
 * [Chaintek Trezor Integration](https://wallet.chaintek.net%20)

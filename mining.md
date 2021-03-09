@@ -1,14 +1,27 @@
 # Mining
 
+{% hint style="success" %}
 **PIN Mining at a Glance:**📌 
 
 * Proof of Work \(PoW\) - sCrypt algorithm
 * Block Time: 40 seconds
 * Total Coin Supply:  160,000,000
 * Halving: Every 800,000 blocks
-* Next Halving: Block 4,000,000 \(~February 21, 2020\)
+* Next Halving: Block \_\_\_\_\_\_\_ \(~\_\_\_\_\_\_\_\_\_\_\)
+{% endhint %}
 
-**Mining Pools and Guides**: 📌 
+{% hint style="success" %}
+**PIN Mining at a Glance:**📌 
+
+* Proof of Work \(PoW\) - sCrypt algorithm
+* Block Time: 40 seconds
+* Total Coin Supply:  160,000,000
+* Halving: Every 800,000 blocks
+* Next Halving: Block 4,000,000 \(~February 21, 202
+{% endhint %}
+
+{% hint style="success" %}
+**Mining Pools and Guides**: 📌
 
 * [General PIN Mining Pool Information and Setup](https://forum.flo.cash/t/mining-guide-antminer-l3/36)
 * [RanchiMall : How to Setup a PIN Mining Node](https://medium.com/ranchimall/how-to-setup-florincoin-mining-node-d2d6a464090)
@@ -19,6 +32,7 @@
 * [Mining Dutch](https://www.mining-dutch.nl/pools/florin.php)
 * [CoinFoundry](https://coinfoundry.org/%20)
 * [Altcoinpool](https://altcoinpool.eu%20)
+{% endhint %}
 
 
 
