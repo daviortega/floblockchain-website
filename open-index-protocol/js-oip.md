@@ -1,6 +1,6 @@
-# JS OIP
+# Learn More
 
-{% embed url="https://github.com/oipwg/js-oip" %}
+{% embed url="https://oip.wiki/Main\_Page" %}
 
 
 

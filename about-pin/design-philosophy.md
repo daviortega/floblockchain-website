@@ -1,4 +1,4 @@
-# Philosophy
+# Design Philosophy
 
 {% hint style="success" %}
 **PIN is designed to achieve four goals:**

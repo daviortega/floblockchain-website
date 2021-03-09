@@ -5,11 +5,11 @@
 
 ## About PIN
 
-* [History](about-pin/the-history-of-pin/README.md)
-  * [Timeline](about-pin/the-history-of-pin/timeline.md)
-* [Philosophy](about-pin/design-philosophy.md)
+* [Design Philosophy](about-pin/design-philosophy.md)
 * [Features](about-pin/features-1.md)
 * [Developers](about-pin/the-developers.md)
+* [History](about-pin/the-history-of-pin/README.md)
+  * [Timeline](about-pin/the-history-of-pin/timeline.md)
 * [Applications and Projects](about-pin/applications-and-projects-1/README.md)
   * [Streambed](about-pin/applications-and-projects-1/streambed.md)
   * [Alexandria](about-pin/applications-and-projects-1/alexandria.md)
@@ -29,18 +29,15 @@
 
 ## For Developers
 
+* [PIN on Github](for-developers/pin-on-github.md)
 * [API](for-developers/untitled-1.md)
 * [Building on PIN](for-developers/untitled.md)
 
 ## Open Index Protocol
 
 * [What is OIP?](open-index-protocol/untitled.md)
-* [OPI Daemon](open-index-protocol/opi-daemon.md)
-* [JS OIP](open-index-protocol/js-oip.md)
-* [A basic Platform in React](open-index-protocol/a-basic-platform-in-react.md)
-* [Tools](open-index-protocol/tools.md)
-* [DDX Instance](open-index-protocol/ddx-instance.md)
-* [OIP Search API](open-index-protocol/oip-search-api.md)
+* [OIP on Github](open-index-protocol/opi-daemon.md)
+* [Learn More](open-index-protocol/js-oip.md)
 
 ## Contact and Media
 
