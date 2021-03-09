@@ -21,8 +21,6 @@
 ---
 
 * [Exchanges](exchanges.md)
-* [Setup](setup.md)
-* [Using Pins](using-pindata.md)
 * [Mining](mining.md)
 * [Wallets](wallets.md)
 * [Block Explorers](block-explorers.md)

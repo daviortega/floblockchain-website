@@ -4,18 +4,21 @@ description: Where to get PIN
 
 # Exchanges
 
-==='''Exchanges'''===
+PIN can be purchased or swapped on the following exchanges:
 
-* \[[https://bittrex.com/](https://bittrex.com/) Bittrex\]
-* \[[https://www.abra.com/](https://www.abra.com/) Abra\]
-* \[[https://www.vertbase.com/](https://www.vertbase.com/) Vertbase\]
-* \[[https://www.tokok.com/index](https://www.tokok.com/index) TOKOK\]
-* \[[https://www.coinexchange.io/](https://www.coinexchange.io/) CoinExchange\]
-* \[[https://freiexchange.com/](https://freiexchange.com/) FreiExchange\]
-* \[[https://novaexchange.com/](https://novaexchange.com/) Nova Exchange\]
-* \[[https://changeangel.io/](https://changeangel.io/) changeangel\]
-* \[[https://simpleswap.io/](https://simpleswap.io/) SimpleSwap\]
-* \[[https://bitrabbit.com/en](https://bitrabbit.com/en) BitRabbit\]
+* [Bittrex](https://bittrex.com/)
+* [TOKOK](https://www.tokok.com/index)
+* [Abra](https://www.abra.com/)
+* [Vertbase](https://www.vertbase.com/)
+* [CoinExchange](https://www.coinexchange.io/)
+* [FreiExchange](https://freiexchange.com/)
+* [NovaExchange](https://freiexchange.com/)
+
+
+
+*  [changeangel](https://changeangel.io/)
+* [SimpleSwap](https://simpleswap.io/)
+* [BitRabbit](https://bitrabbit.com/en)
 * \[[https://changenow.io/](https://changenow.io/) changeNow\]
 * \[[https://cryptofacil.com/trading-view/73/BTC-FLO](https://cryptofacil.com/trading-view/73/BTC-FLO) Cryptofacil\]
 * \[[https://bitsfox.com/exchange/FLO-BTC](https://bitsfox.com/exchange/FLO-BTC) BitsFOX\]
