@@ -28,8 +28,6 @@
 ## For Developers
 
 * [PIN on Github](for-developers/pin-on-github.md)
-* [API](for-developers/untitled-1.md)
-* [Building on PIN](for-developers/untitled.md)
 
 ## Open Index Protocol
 

@@ -1,4 +1,8 @@
 # Contribute to PIN
 
-**Bounties** 
+**Bounty Programs:**
+
+\*\*\*\*
+
+**Community Wallets:**
 
