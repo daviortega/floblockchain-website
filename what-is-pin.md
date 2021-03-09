@@ -1,3 +1,7 @@
+---
+description: Learn about PIN and its unique feature set
+---
+
 # What is PIN?
 
 {% hint style="success" %}
