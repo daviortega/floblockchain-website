@@ -11,7 +11,7 @@
 * [History](about-pin/the-history-of-pin/README.md)
   * [Timeline](about-pin/the-history-of-pin/timeline.md)
 * [Applications and Projects](about-pin/applications-and-projects-1/README.md)
-  * [Streambed](about-pin/applications-and-projects-1/streambed.md)
+  * [Streambed Media](about-pin/applications-and-projects-1/streambed.md)
   * [Alexandria](about-pin/applications-and-projects-1/alexandria.md)
   * [Medici Land](about-pin/applications-and-projects-1/medici-land.md)
   * [RanchiMall](about-pin/applications-and-projects-1/ranchimall.md)
