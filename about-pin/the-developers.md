@@ -1,5 +1,5 @@
 ---
-description: Meet the team
+description: Meet the Development Team
 ---
 
 # Developers
