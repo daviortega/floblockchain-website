@@ -36,7 +36,7 @@ Amy James is the co-inventor of Open Index Protocol \(OIP\), an index for all pu
 {% endtab %}
 
 {% tab title="Chris Chrysostom" %}
-Chris has developed software for more than 30 years. His experience ranges from inventory control desktop databases to large healthcare and supply chain systems. He came to PIN by working with Alexandria in 2016. Now he works as Developer Lead at Medici Land Governance implementing a global property rights register with OIP and PIN.📌 
+Chris has developed software for more than 30 years. His experience ranges from inventory control desktop databases to large healthcare and supply chain systems. He came to PIN by working with Alexandria in 2016. Later work includes the Teton County Blockchain Pilot with Medici Land Governance adding more than 187,000 property records to OIP and PIN. Currently, he provides development help on several blockchain projects. 📌 
 {% endtab %}
 {% endtabs %}
 
