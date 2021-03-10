@@ -14,16 +14,17 @@
   * [Alexandria](about-pin/applications-and-projects-1/alexandria.md)
   * [Medici Land](about-pin/applications-and-projects-1/medici-land.md)
   * [RanchiMall](about-pin/applications-and-projects-1/ranchimall.md)
-  * [The PIN Team](about-pin/applications-and-projects-1/the-developers.md)
-
-## For Users
 
 ---
 
-* [Exchanges](exchanges.md)
-* [Mining](mining.md)
-* [Wallets](wallets.md)
-* [Block Explorers](block-explorers.md)
+* [The PIN Team](the-developers.md)
+
+## For Users
+
+* [Exchanges](for-users/exchanges.md)
+* [Mining](for-users/mining.md)
+* [Wallets](for-users/wallets.md)
+* [Block Explorers](for-users/block-explorers.md)
 
 ## For Developers
 
