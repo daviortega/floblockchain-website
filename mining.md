@@ -7,7 +7,6 @@
 * Block Time: 40 seconds
 * Total Coin Supply:  160,000,000
 * Halving: Every 800,000 blocks
-* Next Halving: Block \_\_\_\_\_\_\_ \(~\_\_\_\_\_\_\_\_\_\_\)
 {% endhint %}
 
 {% hint style="success" %}
