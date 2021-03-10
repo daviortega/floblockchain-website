@@ -14,10 +14,7 @@
   * [Alexandria](about-pin/applications-and-projects-1/alexandria.md)
   * [Medici Land](about-pin/applications-and-projects-1/medici-land.md)
   * [RanchiMall](about-pin/applications-and-projects-1/ranchimall.md)
-
----
-
-* [The PIN Team](the-developers.md)
+* [The PIN Team](about-pin/the-developers.md)
 
 ## For Users
 

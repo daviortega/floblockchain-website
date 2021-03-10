@@ -6,7 +6,7 @@ description: Meet the PIN Team
 
 {% tabs %}
 {% tab title="Joseph Fiscella" %}
-Joseph is Chief Technology Officer and Lead Blockchain Developer at Blockparty. He has been part of the PIN Core team since launch, and is co-founder of Alexandria. With 7 years of full time blockchain experience, Joseph brings a deep wealth of industry talent and insight to the PIN Core team.📌
+Joseph is Chief Technology Officer and Lead Blockchain Developer at Blockparty. He has been part of the PIN Core team since launch, and is co-founder of Alexandria. With 7 years of full time blockchain experience, Joseph brings a deep wealth of industry talent and insight to the PIN Core team. 📌 
 {% endtab %}
 
 {% tab title="Devon James" %}
