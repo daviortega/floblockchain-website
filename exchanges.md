@@ -5,7 +5,7 @@ description: Where to get PIN
 # Exchanges
 
 {% hint style="success" %}
-## PIN can be purchased or swapped on these excha**nges:** 📌 
+## Purchase or swap PIN**:** 📌 
 {% endhint %}
 
 {% hint style="success" %}
