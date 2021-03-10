@@ -7,7 +7,6 @@
 
 * [Design Philosophy](about-pin/design-philosophy.md)
 * [Features](about-pin/features-1.md)
-* [Developers](about-pin/the-developers.md)
 * [History](about-pin/the-history-of-pin/README.md)
   * [Timeline](about-pin/the-history-of-pin/timeline.md)
 * [Applications and Projects](about-pin/applications-and-projects-1/README.md)
@@ -15,6 +14,7 @@
   * [Alexandria](about-pin/applications-and-projects-1/alexandria.md)
   * [Medici Land](about-pin/applications-and-projects-1/medici-land.md)
   * [RanchiMall](about-pin/applications-and-projects-1/ranchimall.md)
+  * [The PIN Team](about-pin/applications-and-projects-1/the-developers.md)
 
 ## For Users
 

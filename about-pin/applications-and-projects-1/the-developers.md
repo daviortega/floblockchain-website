@@ -1,8 +1,8 @@
 ---
-description: Meet the Development Team
+description: Meet the PIN Team
 ---
 
-# Developers
+# The PIN Team
 
 {% tabs %}
 {% tab title="Joseph Fiscella" %}
@@ -37,6 +37,20 @@ Amy James is the co-inventor of Open Index Protocol \(OIP\), an index for all pu
 
 {% tab title="Chris Chrysostom" %}
 Chris has developed software for 30 years. His experience ranges from inventory control desktop databases to large healthcare and supply chain systems. He came to FLO by working with Alexandria in 2016. Now he works as Developer Lead at Medici Land Governance implementing a global property rights register with OIP and FLO.
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Kirill Gourov" %}
+Kirill is Director at Eastmore Group, a New York based alternative investing firm, where he focuses on digital currency investment. He also manages strategy at Compass Blockchain Solutions, a blockchain consulting firm. Kirill has been a FLO team member since 2013.
+{% endtab %}
+
+{% tab title="Sam Russell" %}
+Sam is FLO’s marketing expert and commercial strategist who works with CEOs, marketing teams and agencies to deliver smarter marketing. Sam has worked in marketing and commercial roles for Red Bull, Experian, Zomatio, and Peazie. Some of Sam’s clients also include BMW, Air Asia, and Fox Sports. Sam’s specialty is campaign planning, strategy, ROI planning and attribution, data acquisition, conversion optimization, audience building, and go to market strategies.
+{% endtab %}
+
+{% tab title="Ray Engelking" %}
+ Ray is a developer and inventor with 30 years of experience envisioning, architecting, producing, and maintaining technical solutions. Ray has a background in electronics, engineering, and computing and has been part of the FLO core team since 2017.
 {% endtab %}
 {% endtabs %}
 
