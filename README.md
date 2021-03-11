@@ -1,10 +1,24 @@
 ---
-description: Welcome to the FLO blockchain website
+description: >-
+  The blockchain host of the Open Index Protocol ("OIP") and other
+  application-layer software
 ---
 
-# FLO
+# Welcome to PIN: Public Index Network
 
-FLO is awesome!
+> "The vision we have for PIN is to become the public index for a metadata network. PIN isn't a smart contract platform plus 'oh we also have metadata on the side.' Metadata is PIN's purpose." 
+>
+> **— Joseph Fiscella, PIN Core Developer**
 
-FLO is a very good altcoin. It let you add 1040 bytes of text data to the transaction. Good FLO!
+{% hint style="success" %}
+**Latest News**: [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)📌
+{% endhint %}
+
+
+
+
+
+\*\*\*\*
+
+
 
